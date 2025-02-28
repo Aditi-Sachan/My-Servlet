@@ -1,2 +1,1 @@
-1: Created a simple Java Web Server
-2: Simple Login Servlet
+Created a simple Java Web Server and Simple Login Servlet
